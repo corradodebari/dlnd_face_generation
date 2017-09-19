@@ -3,9 +3,9 @@ Target:
 
 ![alt text](https://github.com/corradodebari/dlnd_face_generation/blob/master/images/Image.png)
 
-*dropout on Discriminator: 0.2
-*learning_rate = 0.0002
-*beta1 = 0.4
+* dropout on Discriminator: 0.2
+* learning_rate = 0.0002
+* beta1 = 0.4
 
 ![alt text](https://github.com/corradodebari/dlnd_face_generation/blob/master/images/Image1.png)
 
