@@ -38,4 +38,5 @@ Target:
 * learning_rate = 0.0004
 * beta1 = 0.2
 * double optimization generator
+
 ![alt text](https://github.com/corradodebari/dlnd_face_generation/blob/master/images/Image6.png)
