@@ -1,7 +1,7 @@
 
 Target:
 
-![alt text](https://github.com/corradodebari/dlnd_face_generation/blob/master/images/Image.png =250x250)
+![alt text](https://github.com/corradodebari/dlnd_face_generation/blob/master/images/Image.png = 250x250)
 
 * dropout on Discriminator: 0.2
 * learning_rate = 0.0002
