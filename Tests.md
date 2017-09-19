@@ -24,7 +24,7 @@ Target:
 
 
 * dropout on Discriminator: 0.2
-* learning_rate = 0.0004
+* learning_rate = 0.0002
 * beta1 = 0.4
 
 ![alt text](https://github.com/corradodebari/dlnd_face_generation/blob/master/images/Image4.png)
